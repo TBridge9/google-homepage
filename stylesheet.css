@@ -1,0 +1,71 @@
+.navItem {
+	float:right;
+	margin: 9px;
+	text-decoration: none;
+	position: relative;
+	text-align: right;
+	
+}
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.logo {
+	padding-top: 200px;
+	text-align: center;
+	
+}
+
+.searchBar {
+	text-align: center;
+	width: auto;
+	display: inline-block;
+	margin: -100px 50px 50px 50px;
+
+}
+
+.searchBar form input {
+	width: 550px;
+	height: 30px;
+	margin: 50px 50px 50px 50px;
+
+}
+
+button {
+	color: #000000;
+	margin: 10px 10px;
+	font-size: 13px;
+	position: relative;
+	top: -30px;
+} 
+
+ footer {
+	background-color: #f2f2f2;
+	height: 35px;
+	width: auto;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1px;
+
+}
+
+.fLinks-left {
+	float: left;
+	margin: 9px;
+	padding-left: 15px;
+	text-decoration: none;
+	position: relative;
+	text-align: left;
+}
+
+.fLinks-right {
+	float: right;
+	margin: 9px;
+	padding-right: 15px;
+	text-decoration: none;
+	position: relative;
+	text-align: right;
+}
